@@ -1,5 +1,4 @@
 # Mazemerized
-# Mazemerized
 
 This project is a hybrid between **DOTS (Data-Oriented Tech Stack)**, **MonoBehaviour**, and **XR Interaction Toolkit** in Unity.
 
